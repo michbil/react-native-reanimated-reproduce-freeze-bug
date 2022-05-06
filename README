@@ -1,0 +1,2 @@
+When user click login button app freezes on android, to unfreeze comment entering and leaving animations in the src/WelcomingScreen.js
+Bug seems to be fixed in react-native-reanimated 2.8.0
